@@ -6,7 +6,12 @@
 
 ## Contact me
 
-[<img align="left" alt="notion" src="https://img.shields.io/badge/notion-%231DA1F2.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://www.notion.so/3c426cbb0bbb49a185f772db55f78de8)
+[<img alt="notion" src="https://img.shields.io/badge/notion-%231DA1F2.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://www.notion.so/3c426cbb0bbb49a185f772db55f78de8)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **parkjihwanjay/parkjihwanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
