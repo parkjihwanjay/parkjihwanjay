@@ -10,5 +10,5 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Configuring PM2 in docker for Node.js](https://cc665606656.medium.com/configuring-pm2-in-docker-for-node-js-2da43a12abee?source=rss-bd0b2168c52a------2)
 <!-- BLOG-POST-LIST:END -->
