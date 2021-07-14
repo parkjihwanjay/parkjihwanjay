@@ -10,6 +10,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About Vector projection](https://cc665606656.medium.com/about-vector-projection-e1417a9ccd28?source=rss-bd0b2168c52a------2)
 - [Next.js 초간단 정리](https://cc665606656.medium.com/next-js-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-d75ad48d6a18?source=rss-bd0b2168c52a------2)
 - [Github action, Codedeploy를 통한 무중단 배포(blue/green)](https://cc665606656.medium.com/github-action-codedeploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC-blue-green-dbeaccd14677?source=rss-bd0b2168c52a------2)
 - [Chatting 어플리케이션에 intersectionObserver 적용하기](https://cc665606656.medium.com/chatting-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90-intersectionobserver-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-62dda9924375?source=rss-bd0b2168c52a------2)
