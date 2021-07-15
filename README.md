@@ -19,3 +19,4 @@
 
 ## Notion posts
 - [Change Basis Vector in Linear Algebra](https://www.notion.so/Change-Basis-Vector-c652cc70718044b6bbb250fda59814f4)
+- [Linear Independent](https://www.notion.so/Linear-Independent-74772f6963674f0e95191a1fc00f393a)
