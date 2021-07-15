@@ -16,3 +16,6 @@
 - [Chatting 어플리케이션에 intersectionObserver 적용하기](https://cc665606656.medium.com/chatting-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90-intersectionobserver-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-62dda9924375?source=rss-bd0b2168c52a------2)
 - [Configuring PM2 in docker for Node.js](https://cc665606656.medium.com/configuring-pm2-in-docker-for-node-js-2da43a12abee?source=rss-bd0b2168c52a------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Notion posts
+- [Change Basis Vector in Linear Algebra](https://www.notion.so/Change-Basis-Vector-c652cc70718044b6bbb250fda59814f4)
