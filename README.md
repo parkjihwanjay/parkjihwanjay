@@ -6,7 +6,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-<!-- - [What is Ethereum?](https://cc665606656.medium.com/what-is-ethereum-2c5d831fb51c?source=rss-bd0b2168c52a------2)
+- [What is Ethereum?](https://cc665606656.medium.com/what-is-ethereum-2c5d831fb51c?source=rss-bd0b2168c52a------2)
 - [데이터베이스 개념](https://cc665606656.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%9C%EB%85%90-350cca4bf3e8?source=rss-bd0b2168c52a------2)
 - [About Vector projection](https://medium.com/the-breakthrough/about-vector-projection-e1417a9ccd28?source=rss-bd0b2168c52a------2)
 - [Next.js 초간단 정리](https://cc665606656.medium.com/next-js-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-d75ad48d6a18?source=rss-bd0b2168c52a------2)
